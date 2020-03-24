@@ -16,7 +16,7 @@ class TicTacToe
   ]
   
   def display_board
-    
+    self.@board 
   end
   
   def input_to_index
